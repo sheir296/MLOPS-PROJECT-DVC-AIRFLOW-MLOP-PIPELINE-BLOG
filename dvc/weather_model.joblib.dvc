@@ -1,0 +1,5 @@
+outs:
+- md5: 144674636fe62ad3395666e2769f1acf
+  size: 74017
+  hash: md5
+  path: weather_model.joblib
