@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733649861183
+current_stage: None
+description: null
+last_updated_timestamp: 1733649861183
+name: weather_model
+run_id: edc07d7572d6485e9738057e07e8be53
+run_link: null
+source: file:///D:/mlops%20final%20project/MLOPS-project-dev/ml-models/mlruns/959123236699145726/edc07d7572d6485e9738057e07e8be53/artifacts/random_forest_weather_model
+status: READY
+status_message: null
+storage_location: file:///D:/mlops%20final%20project/MLOPS-project-dev/ml-models/mlruns/959123236699145726/edc07d7572d6485e9738057e07e8be53/artifacts/random_forest_weather_model
+user_id: null
+version: 1
